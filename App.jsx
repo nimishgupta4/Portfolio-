@@ -82,8 +82,8 @@ function App() {
   const [copied, setCopied] = useState(false)
   const [showTop, setShowTop] = useState(false)
 
-  const email = 'YOUR_EMAIL@example.com'
-  const github = 'https://github.com/YOUR_USERNAME'
+  const email = 'guptanimish940@gmail.com'
+  const github = 'https://github.com/nimishgupta4'
   const linkedin = 'https://www.linkedin.com/in/YOUR_USERNAME/'
 
   const filteredProjects = useMemo(() => {
